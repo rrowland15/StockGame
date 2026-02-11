@@ -1,0 +1,1 @@
+Flutter application that simulates real-world stock market trading, enabling teens and young adults to explore investing concepts and understand market gains and losses. An MVP was completed; further scaling was constrained by third-party API limitations.
